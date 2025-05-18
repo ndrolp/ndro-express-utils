@@ -1,6 +1,6 @@
 {
   "name": "ndro-express-utils",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "autor": "ndrolp",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "express": "^5.1.0",
+    "joi": "^17.13.3",
     "reflect-metadata": "^0.2.2"
   },
   "publishConfig": {
